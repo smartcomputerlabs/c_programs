@@ -1,0 +1,4 @@
+# ninja log v5
+1	112	7292855786017892	CMakeFiles/c_programs.dir/exec_demo.c.obj	549d954d5e8b5cfb
+113	247	7292855787331633	c_programs.exe	eaf44a14d0dd12bf
+2	111	7292856546900045	CMakeFiles/c_programs.dir/sleep_demo.c.obj	8e90a8e805eb416f
