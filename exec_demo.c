@@ -9,7 +9,7 @@ int main(void)
 {
     printf("%s: Before calling exec mypid = %d\n", __FILE__, getpid());
 
-    if(execl("./2.out", "2.out", NULL))
+    if(execl("./sleep_demo", "sleep_demo", NULL))
         perror("exec");
 
     printf("%s After calling exec mypid = %d\n", __FILE__, getpid());
